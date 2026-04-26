@@ -1,0 +1,2 @@
+# Stoat
+A Sable Datapack
