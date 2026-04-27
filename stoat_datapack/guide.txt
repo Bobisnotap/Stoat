@@ -6,8 +6,9 @@ Create Deco
 Enderscape
 Farmer's Delight
 My Nether's Delight
+Miner's Delight
 Brewin' and Chewin'
-Supplementaries
+Supplementaries(^2)
 Quark
 No Man's Land
 Oxide
@@ -18,6 +19,7 @@ Ipla
 Verdant
 Grounded
 Redstone Recharged
+Moyai
 (And possibly more we've forgotten)
 
 Some blocks have custom physics values and combinations, here are some notable ones:

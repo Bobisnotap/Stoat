@@ -3,6 +3,7 @@
   "values": [
     { "id": "quark:skull_pike", "required": false },
     { "id": "quark:stool", "required": false },
-    { "id": "pulsetech:orb", "required": false }
+    { "id": "pulsetech:orb", "required": false },
+    { "id": "supplementaries:hat_stand", "required": false }
   ]
 }

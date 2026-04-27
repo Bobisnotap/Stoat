@@ -16,7 +16,9 @@
     {"id":"#supplementaries:presents","required":false},
     {"id":"#supplementaries:trapped_presents","required":false},
     {"id":"abundant_atmosphere:large_puffball_mushroom","required":false},
-    {"id":"farmersdelight:basket","required":false},
+    {"id":"farmersdelight:bamboo_basket","required":false},
+    {"id":"farmersdelight:wooden_basket","required":false},
+    {"id":"minersdelight:sticky_basket","required":false},
     {"id":"nomansland:shelf_mushroom_block","required":false}
   ]
 }

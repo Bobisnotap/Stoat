@@ -18,6 +18,7 @@
     {"id":"#architects_palette:nubs","required":false},
     {"id":"farmersdelight:cooking_pot","required":false},
     {"id":"farmersdelight:skillet","required":false},
+    {"id":"minersdelight:copper_pot","required":false},
     {"id":"oxide:rebar","required":false},
     {"id":"oxide:cracked_cement_slab","required":false},
     {"id":"oxide:cracked_weathered_cement_slab","required":false},

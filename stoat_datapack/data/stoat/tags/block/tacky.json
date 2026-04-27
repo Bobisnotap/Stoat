@@ -44,6 +44,7 @@
     {"id":"supplementaries:blackstone_tile_stairs","required":false},
     {"id":"supplementaries:blackstone_tile_slab","required":false},
     {"id":"supplementaries:blackstone_tile_wall","required":false},
+    {"id":"supplementaries:raked_gravel","required":false},
     {"id":"architects_palette:blackstone_nub","required":false},
     {"id":"architects_palette:tread_plate","required":false},
     {"id":"architects_palette:tread_plate_stairs","required":false},

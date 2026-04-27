@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "supplementaries:hat_stand", "required": false }
+  ]
+}
