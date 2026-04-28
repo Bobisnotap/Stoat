@@ -16,7 +16,6 @@
     {"id":"quark:mud_brick_lattice","required":false},
 	
     {"id":"architects_palette:pipe","required":false},
-    {"id":"#architects_palette:nubs","required":false},
 	
     {"id":"minersdelight:copper_pot","required":false},
 	
