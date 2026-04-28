@@ -1,5 +1,6 @@
 <h1 align="center">Stoat<br>
-  <p align="center"><img src="./data/pack.png" alt="Stoat Logo" width="200"></p>
+  
+  <p align="center"><img src="./stoat_datapack/pack.png" alt="Stoat Logo" width="200"></p>
   <h2 align="center">A Sable Datapack by Bobisnotaperson
   </h2>
 </h1>
