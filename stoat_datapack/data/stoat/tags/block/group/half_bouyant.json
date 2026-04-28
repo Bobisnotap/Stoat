@@ -3,6 +3,7 @@
   "values": [
     {"id":"#quark:stools","required":false},
     {"id":"#quark:hollow_logs","required":false},
+
     {"id":"#blockbox:wooden_seats","required":false},
 	
     {"id":"architects_palette:bread_slab","required":false},

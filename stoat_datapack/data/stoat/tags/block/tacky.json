@@ -59,6 +59,7 @@
     {"id":"abundant_atmosphere:mossy_cobbled_deepslate_stairs","required":false},
     {"id":"abundant_atmosphere:mossy_cobbled_deepslate_slab","required":false},
     {"id":"abundant_atmosphere:mossy_cobbled_deepslate_wall","required":false},
+    {"id":"abundant_atmosphere:cave_crud","required":false},
 	
     {"id":"grounded:earthen_clay_path","required":false},
     {"id":"grounded:sandy_dirt_path","required":false},

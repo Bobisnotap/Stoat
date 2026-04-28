@@ -1,5 +1,6 @@
 {
   "values": [
-    {"id":"supplementaries:bubble_block","required":false}
+    {"id":"supplementaries:bubble_block","required":false},
+    {"id":"alchemancy:phantom_membrane_block","required":false}
   ]
 }

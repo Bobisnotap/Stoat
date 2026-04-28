@@ -17,8 +17,6 @@
 	
     {"id":"architects_palette:pipe","required":false},
 	
-    {"id":"minersdelight:copper_pot","required":false},
-	
     {"id":"oxide:rebar","required":false},
     {"id":"oxide:cracked_cement_slab","required":false},
     {"id":"oxide:cracked_weathered_cement_slab","required":false},
@@ -27,6 +25,8 @@
     {"id":"oxide:weathered_iron_scaffold","required":false},
     {"id":"oxide:rusted_iron_scaffold","required":false},
     {"id":"#oxide:wet_cement","required":false},
-    {"id":"#oxide:reinforced_cement","required":false}
+    {"id":"#oxide:reinforced_cement","required":false},
+	
+    {"id":"alchemancy:gust_basket","required":false}
   ]
 }

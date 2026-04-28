@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#c:clusters","required":false},
+	
+    {"id":"minersdelight:copper_pot","required":false},
+	
+    {"id":"quark:pipe","required":false},
+    {"id":"quark:red_corundum_cluster","required":false},
+    {"id":"quark:orange_corundum_cluster","required":false},
+    {"id":"quark:yellow_corundum_cluster","required":false},
+    {"id":"quark:green_corundum_cluster","required":false},
+    {"id":"quark:blue_corundum_cluster","required":false},
+    {"id":"quark:indigo_corundum_cluster","required":false},
+    {"id":"quark:violet_corundum_cluster","required":false},
+    {"id":"quark:white_corundum_cluster","required":false},
+    {"id":"quark:black_corundum_cluster","required":false},
+	
+    {"id":"nomansland:quartzite_cluster","required":false},
+	
+    {"id":"etched:etching_table","required":false},
+    {"id":"etched:radio","required":false}
+  ]
+}

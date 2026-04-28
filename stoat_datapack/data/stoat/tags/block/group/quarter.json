@@ -3,12 +3,21 @@
   "values": [
     {"id":"#minecraft:bars","required":false},
     {"id":"#c:chains","required":false},
+    {"id":"#c:buds","required":false},
 	
     {"id":"#quark:ladders","required":false},
-	
     {"id":"quark:nether_brick_fence_gate","required":false},
-    {"id":"quark:pipe","required":false},
     {"id":"quark:bamboo_mat_carpet","required":false},
+    {"id":"quark:rope","required":false},
+    {"id":"quark:red_corundum_pane","required":false},
+    {"id":"quark:orange_corundum_pane","required":false},
+    {"id":"quark:yellow_corundum_pane","required":false},
+    {"id":"quark:green_corundum_pane","required":false},
+    {"id":"quark:blue_corundum_pane","required":false},
+    {"id":"quark:indigo_corundum_pane","required":false},
+    {"id":"quark:violet_corundum_pane","required":false},
+    {"id":"quark:white_corundum_pane","required":false},
+    {"id":"quark:black_corundum_pane","required":false},
 	
     {"id":"blockbox:golden_bars","required":false},
     {"id":"blockbox:copper_bars","required":false},
@@ -89,6 +98,12 @@
 	
     {"id":"envelope:paper_box","required":false},
     {"id":"envelope:package","required":false},
-    {"id":"envelope:sealed_package","required":false}
+    {"id":"envelope:sealed_package","required":false},
+	
+    {"id":"nomansland:small_quartzite_bud","required":false},
+    {"id":"nomansland:medium_quartzite_bud","required":false},
+    {"id":"nomansland:large_quartzite_bud","required":false},
+	
+    {"id":"alchemancy:flat_hopper","required":false}
   ]
 }
