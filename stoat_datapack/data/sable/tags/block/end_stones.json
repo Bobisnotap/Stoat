@@ -1,11 +1,6 @@
 {
   "replace": false,
   "values": [
-    {"id":"architects_palette:choral_end_stone_bricks","required":false},
-    {"id":"architects_palette:cracked_end_stone_bricks","required":false},
-    {"id":"architects_palette:chiseled_end_stone_bricks","required":false},
-    {"id":"architects_palette:heavy_end_stone_bricks","required":false},
-    {"id":"architects_palette:heavy_cracked_end_stone_bricks","required":false},
     {"id":"quark:myalite","required":false},
     {"id":"quark:polished_myalite","required":false},
     {"id":"quark:myalite_pillar","required":false},
@@ -16,6 +11,7 @@
     {"id":"quark:myalite_wall","required":false},
     {"id":"quark:polished_myalite_wall","required":false},
     {"id":"quark:myalite_bricks_wall","required":false},
+	
     {"id":"enderscape:end_stone_wall","required":false},
     {"id":"enderscape:chiseled_end_stone","required":false},
     {"id":"enderscape:polished_end_stone","required":false},

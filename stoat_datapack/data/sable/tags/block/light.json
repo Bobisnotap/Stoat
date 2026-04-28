@@ -3,6 +3,7 @@
   "values": [
     {"id":"#stoat:group/half","required":false},
     {"id":"#stoat:chorus","required":false},
+	
     {"id":"minecraft:wet_sponge","required":false},
     {"id":"#minecraft:bamboo_blocks","required":false},
     {"id":"minecraft:red_mushroom_block","required":false},
@@ -15,13 +16,14 @@
     {"id":"minecraft:pale_moss_block","required":false},
     {"id":"minecraft:hay_block","required":false},
     {"id":"minecraft:target","required":false},
+	
     {"id":"abundant_atmosphere:rust_moss_block","required":false},
     {"id":"#abundant_atmosphere:red_bamboo_blocks","required":false},
     {"id":"abundant_atmosphere:poreshroom_block","required":false},
-    {"id":"#quark:hollow_logs","required":false},
-    {"id":"#c:chests/wooden","required":false},
+	
     {"id":"#blockbox:palisades","required":false},
     {"id":"#blockbox:spiked_palisades","required":false},
+	
     {"id":"architects_palette:charcoal_block","required":false},
     {"id":"architects_palette:spool","required":false},
     {"id":"architects_palette:bread_block","required":false},
@@ -34,10 +36,13 @@
     {"id":"architects_palette:crustless_bread_block","required":false},
     {"id":"#architects_palette:boards","required":false},
     {"id":"architects_palette:rotten_flesh_block","required":false},
+	
     {"id":"supplementaries:fine_wood","required":false},
     {"id":"supplementaries:fodder","required":false},
+	
     {"id":"minecraft:dried_kelp_block","required":false},
     {"id":"minecraft:hay_bale","required":false},
+	
     {"id":"quark:sugarcane_block","required":false},
     {"id":"quark:cactus_block","required":false},
     {"id":"quark:stick_block","required":false},
@@ -56,8 +61,10 @@
     {"id":"quark:bamboo_mat","required":false},
     {"id":"quark:glow_shroom_stem","required":false},
     {"id":"quark:glow_shroom_block","required":false},
+	
     {"id":"supplementaries:flax_block","required":false},
     {"id":"supplementaries:sugar_cube","required":false},
+	
     {"id":"farmersdelight:carrot_crate","required":false},
     {"id":"farmersdelight:potato_crate","required":false},
     {"id":"farmersdelight:beetroot_crate","required":false},
@@ -69,14 +76,18 @@
     {"id":"farmersdelight:straw_bale","required":false},
     {"id":"farmersdelight:tatami","required":false},
     {"id":"#farmersdelight:cabinets/wooden","required":false},
+	
     {"id":"minersdelight:cave_carrot_crate","required":false},
     {"id":"mynethersdelight:powdery_block","required":false},
     {"id":"mynethersdelight:stripped_powdery_block","required":false},
     {"id":"mynethersdelight:bullet_pepper_crate","required":false},
+	
     {"id":"#enderscape:chanterelle_cap_blocks","required":false},
+	
     {"id":"nomansland:field_mushroom_block","required":false},
     {"id":"nomansland:apple_crate","required":false},
     {"id":"nomansland:pear_crate","required":false},
+	
     {"id":"verdant:cave_mushroom_stem","required":false},
     {"id":"verdant:phosphor_shroomlight","required":false},
     {"id":"verdant:portabella_block","required":false},

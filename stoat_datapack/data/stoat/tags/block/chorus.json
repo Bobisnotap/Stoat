@@ -13,6 +13,7 @@
     {"id":"enderscape:purpur_tiles","required":false},
     {"id":"enderscape:blinklamp","required":false},
     {"id":"quark:purpur_chest","required":false},
+    {"id":"quark:trapped_purpur_chest","required":false},
     {"id":"quark:chorus_fruit_block","required":false},
     {"id":"quark:duskbound_block","required":false},
     {"id":"quark:duskbound_lantern","required":false},

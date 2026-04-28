@@ -3,9 +3,18 @@
   "values": [
     {"id":"minecraft:honeycomb_block","required":false},
     {"id":"minecraft:resin_block","required":false},
+	
+    {"id":"architects_palette:tread_plate_vertical_slab","required":false},
+	
+    {"id":"blockbox:iron_tread_plate","required":false},
+    {"id":"blockbox:iron_tread_plate_stairs","required":false},
+    {"id":"blockbox:iron_tread_plate_slab","required":false},
+	
     {"id":"verdant:saguaro_block","required":false},
     {"id":"verdant:saguaro_arm","required":false},
+	
     {"id":"quark:cactus_block","required":false},
+	
     {"id":"mynethersdelight:letios_compost","required":false},
     {"id":"mynethersdelight:resurgent_soil","required":false},
     {"id":"mynethersdelight:resurgent_soil_farmland","required":false},
