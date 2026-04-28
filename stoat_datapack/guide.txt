@@ -1,4 +1,4 @@
-Adds basic sable tags to some blocks from the base game and these mods:
+Adds basic sable tags to some features from the base game and these mods:
 Abundant Atmosphere
 Architect's Palette
 The Block Box
@@ -20,6 +20,9 @@ Verdant
 Grounded
 Redstone Recharged
 Moyai
+Mmmmmmmmmmmmmmm
+Horizontal Reinforced Deepslate
+Alchemancy
 (And possibly more we've forgotten)
 
 Some blocks have custom physics values and combinations, here are some notable ones:
@@ -38,7 +41,7 @@ Some blocks have custom physics values and combinations, here are some notable o
 
 Notable additions and changes to existing Sable tags:
 (Misc) Extra tags for easily adding blocks adjacent to slabs and smaller to the appropriate sable tags.
-(Misc) Plants similar to cactus or bamboo have been made light and fragile. Additonsally, resin and dirty glass are fragile.
+(Misc) Plants similar to cactus or bamboo have been made light and fragile. Additionally, resin and dirty glass are fragile.
 (Misc) Various storage blocks are now light instead of super heavy.
 
 If you need to see what's in specific tags, we recommend wearing goggles and peering into your recipe viewer of your choice! Looking up #sable and #stoat helps.
