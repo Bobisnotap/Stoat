@@ -100,7 +100,10 @@
     {"id":"amendments:hanging_flower_pot","required":false},
     {"id":"envelope:paper_box","required":false},
     {"id":"envelope:package","required":false},
-    {"id":"envelope:sealed_package","required":false}
+    {"id":"envelope:sealed_package","required":false},
+    {"id":"minecraft:moss_block","required":false},
+    {"id":"minecraft:pale_moss_block","required":false},
+    {"id":"abundant_atmosphere:rust_moss_block","required":false}
   ],
   "remove": [
     {"id":"supplementaries:netherite_door","required":false},
