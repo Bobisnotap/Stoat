@@ -68,7 +68,17 @@
 	
     {"id":"minecraft:moss_block","required":false},
     {"id":"minecraft:pale_moss_block","required":false},
-    {"id":"abundant_atmosphere:rust_moss_block","required":false}
+    {"id":"abundant_atmosphere:rust_moss_block","required":false},
+	
+    {"id":"#wholecloth:cloth_blocks","required":false},
+	
+    {"id":"spawn:zombified_flower","required":false},
+    {"id":"spawn:red_algae_block","required":false},
+    {"id":"spawn:hazy_algae_block","required":false},
+    {"id":"spawn:iguana_egg","required":false},
+    {"id":"spawn:marine_iguana_egg","required":false},
+	
+    {"id":"nomansland:tortoise_egg","required":false}
   ],
   "remove": [
     {"id":"supplementaries:netherite_door","required":false},

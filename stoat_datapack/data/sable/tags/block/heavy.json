@@ -9,6 +9,19 @@
     {"id":"supplementaries:netherite_door","required":false},
     {"id":"supplementaries:netherite_trapdoor","required":false},
 	
-    {"id":"moyai:moyai","required":false}
+    {"id":"moyai:moyai","required":false},
+	
+    {"id":"frame_changer:obsidian_bricks","required":false},
+    {"id":"frame_changer:polished_obsidian","required":false},
+    {"id":"frame_changer:obsidian_brick_wall","required":false},
+    {"id":"frame_changer:polished_obsidian_wall","required":false},
+    {"id":"frame_changer:chiseled_obsidian","required":false},
+    {"id":"frame_changer:obsidian_pillar","required":false},
+    {"id":"frame_changer:crying_obsidian_bricks","required":false},
+    {"id":"frame_changer:crying_polished_obsidian","required":false},
+    {"id":"frame_changer:crying_obsidian_brick_wall","required":false},
+    {"id":"frame_changer:crying_polished_obsidian_wall","required":false},
+    {"id":"frame_changer:crying_chiseled_obsidian","required":false},
+    {"id":"frame_changer:crying_obsidian_pillar","required":false}
   ]
 }

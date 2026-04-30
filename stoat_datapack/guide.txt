@@ -23,6 +23,9 @@ Moyai
 Mmmmmmmmmmmmmmm
 Horizontal Reinforced Deepslate
 Alchemancy
+Frame Changer
+Whole Cloth
+Spawn
 (And possibly more we've forgotten)
 
 Some blocks have custom physics values and combinations, here are some notable ones:

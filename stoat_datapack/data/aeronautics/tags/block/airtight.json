@@ -3,6 +3,7 @@
   "values": [
     {"id":"#stoat:floating_lanterns","required":false},
     {"id":"architects_palette:polished_glowstone","required":false},
-    {"id":"architects_palette:runic_glowstone","required":false}
+    {"id":"architects_palette:runic_glowstone","required":false},
+    {"id":"#wholecloth:cloth_blocks","required":false}
   ]
 }

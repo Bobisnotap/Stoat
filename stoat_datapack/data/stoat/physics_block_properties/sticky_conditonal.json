@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:sticky_conditional",
+    "priority": 1500,
+    "properties": {
+        "sable:friction": 1.65
+    },
+    "overrides": {
+        "solid=true": {
+			"sable:friction": 1.0
+		}
+    }
+}

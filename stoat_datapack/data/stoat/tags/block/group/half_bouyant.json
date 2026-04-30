@@ -21,6 +21,9 @@
     {"id":"farmersdelight:wooden_basket","required":false},
     {"id":"minersdelight:sticky_basket","required":false},
 	
-    {"id":"nomansland:shelf_mushroom_block","required":false}
+    {"id":"nomansland:shelf_mushroom_block","required":false},
+	
+    {"id":"spawn:big_sea_pickle","required":false},
+    {"id":"spawn:date_bunch","required":false}
   ]
 }

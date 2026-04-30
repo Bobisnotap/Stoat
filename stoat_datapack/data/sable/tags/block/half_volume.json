@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     {"id":"#stoat:group/half","required":false},
-    {"id":"#stoat:group/half_bouyant","required":false}
+    {"id":"#stoat:group/half_bouyant","required":false},
+    {"id":"#stoat:heavy_slabs","required":false}
   ]
 }

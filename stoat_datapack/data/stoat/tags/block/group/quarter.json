@@ -104,6 +104,15 @@
     {"id":"nomansland:medium_quartzite_bud","required":false},
     {"id":"nomansland:large_quartzite_bud","required":false},
 	
-    {"id":"alchemancy:flat_hopper","required":false}
+    {"id":"alchemancy:flat_hopper","required":false},
+    {"id":"alchemancy:flattened_item","required":false},
+	
+    {"id":"spawn:dried_hamster","required":false},
+    {"id":"spawn:clam_case_white","required":false},
+    {"id":"spawn:clam_case_yellow","required":false},
+    {"id":"spawn:clam_case_red","required":false},
+    {"id":"spawn:clam_case_purple","required":false},
+	
+    {"id":"#wholecloth:cloth_carpets","required":false}
   ]
 }

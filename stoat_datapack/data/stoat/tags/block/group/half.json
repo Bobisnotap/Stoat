@@ -27,6 +27,11 @@
     {"id":"#oxide:wet_cement","required":false},
     {"id":"#oxide:reinforced_cement","required":false},
 	
-    {"id":"alchemancy:gust_basket","required":false}
+    {"id":"alchemancy:gust_basket","required":false},
+	
+    {"id":"spawn:snail_shell","required":false},
+    {"id":"spawn:hamster_wheel","required":false},
+	
+    {"id":"minecraft:dried_ghast","required":false}
   ]
 }

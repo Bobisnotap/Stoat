@@ -19,6 +19,9 @@
     {"id":"nomansland:quartzite_cluster","required":false},
 	
     {"id":"etched:etching_table","required":false},
-    {"id":"etched:radio","required":false}
+    {"id":"etched:radio","required":false},
+	
+    {"id":"spawn:sunstone","required":false},
+    {"id":"spawn:moonstone","required":false}
   ]
 }
