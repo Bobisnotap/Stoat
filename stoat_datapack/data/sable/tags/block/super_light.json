@@ -13,18 +13,6 @@
     {"id":"supplementaries:rope_buntings","required":false},
     {"id":"supplementaries:way_sign","required":false},
 	
-    {"id":"minecraft:pale_moss_carpet","required":false},
-    {"id":"abundant_atmosphere:rust_moss_carpet","required":false},
-    {"id":"abundant_atmosphere:red_bamboo","required":false},
-    {"id":"abundant_atmosphere:gourdnut","required":false},
-
-    {"id":"brewinandchewin:coaster","required":false},
-    {"id":"mynethersdelight:powdery_cannon","required":false},
-	
-    {"id":"enderscape:shadoline_bars","required":false},
-    {"id":"enderscape:shadoline_chain","required":false},
-    {"id":"enderscape:void_lantern","required":false},
-    {"id":"enderscape:bulb_lantern","required":false},
     {"id":"enderscape:drift_jelly_block","required":false},
 	
     {"id":"farmersdelight:safety_net","required":false},
@@ -32,39 +20,6 @@
     {"id":"ipla:l_item","required":false},
 	
     {"id":"verdant:saguaro_arm","required":false},
-	
-    {"id":"oxide:iron_scaffold_stairs","required":false},
-    {"id":"oxide:weathered_iron_scaffold_stairs","required":false},
-    {"id":"oxide:rusted_iron_scaffold_stairs","required":false},
-    {"id":"oxide:iron_scaffold_slab","required":false},
-    {"id":"oxide:weathered_iron_scaffold_slab","required":false},
-    {"id":"oxide:rusted_iron_scaffold_slab","required":false},
-    {"id":"oxide:wrought_iron_fence","required":false},
-    {"id":"oxide:weathered_wrought_iron_fence","required":false},
-    {"id":"oxide:rusted_wrought_iron_fence","required":false},
-    {"id":"oxide:wrought_iron_fence_gate","required":false},
-    {"id":"oxide:weathered_wrought_iron_fence_gate","required":false},
-    {"id":"oxide:rusted_wrought_iron_fence_gate","required":false},
-    {"id":"oxide:heavy_iron_bars","required":false},
-    {"id":"oxide:weathered_heavy_iron_bars","required":false},
-    {"id":"oxide:rusted_heavy_iron_bars","required":false},
-    {"id":"oxide:heavy_iron_chain","required":false},
-    {"id":"oxide:weathered_heavy_iron_chain","required":false},
-    {"id":"oxide:rusted_heavy_iron_chain","required":false},
-    {"id":"oxide:heavy_iron_ladder","required":false},
-    {"id":"oxide:weathered_heavy_iron_ladder","required":false},
-    {"id":"oxide:rusted_heavy_iron_ladder","required":false},
-    {"id":"oxide:cinder_block","required":false},
-	
-    {"id":"recharged:redstone_lantern","required":false},
-    {"id":"recharged:glow_lantern","required":false},
-	
-    {"id":"amendments:wall_lantern","required":false},
-    {"id":"amendments:hanging_flower_pot","required":false},
-	
-    {"id":"envelope:paper_box","required":false},
-    {"id":"envelope:package","required":false},
-    {"id":"envelope:sealed_package","required":false},
 	
     {"id":"minecraft:moss_block","required":false},
     {"id":"minecraft:pale_moss_block","required":false},

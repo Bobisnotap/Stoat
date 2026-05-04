@@ -1,0 +1,31 @@
+{
+  "values": [
+    {"id":"#c:storage_blocks/ender_pearls","required":false},
+    {"id":"#c:storage_blocks/shadoline","required":false},
+    {"id":"#c:storage_blocks/raw_shadoline","required":false},
+    {"id":"#c:ores/shadoline","required":false},
+	
+    {"id":"minecraft:ender_chest","required":false},
+	
+    {"id":"quark:gravisand","required":false},
+    {"id":"quark:dusky_myalite","required":false},
+    {"id":"quark:duskbound_block","required":false},
+    {"id":"quark:duskbound_lantern","required":false},
+    {"id":"quark:ender_watcher","required":false},
+	
+    {"id":"architects_palette:entwine_block","required":false},
+    {"id":"architects_palette:entwine_pillar","required":false},
+    {"id":"architects_palette:chiseled_entwine","required":false},
+	
+    {"id":"enderscape:shadoline_block_wall","required":false},
+    {"id":"enderscape:cut_shadoline","required":false},
+    {"id":"enderscape:cut_shadoline_wall","required":false},
+    {"id":"enderscape:chiseled_shadoline","required":false},
+    {"id":"enderscape:shadoline_pillar","required":false},
+    {"id":"enderscape:dusk_purpur_block","required":false},
+    {"id":"enderscape:dusk_purpur_wall","required":false},
+    {"id":"enderscape:chiseled_dusk_purpur","required":false},
+    {"id":"enderscape:dusk_purpur_pillar","required":false},
+    {"id":"enderscape:purpur_tiles","required":false}
+  ]
+}

@@ -21,6 +21,7 @@
     {"id":"abundant_atmosphere:large_puffball_mushroom","required":false},
     {"id":"abundant_atmosphere:red_bamboo_mosaic_stairs","required":false},
     {"id":"abundant_atmosphere:red_bamboo_mosaic_slab","required":false},
+    {"id":"abundant_atmosphere:gourdnut","required":false},
 	
     {"id":"farmersdelight:bamboo_basket","required":false},
     {"id":"farmersdelight:wooden_basket","required":false},

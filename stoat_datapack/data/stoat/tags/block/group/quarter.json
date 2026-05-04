@@ -47,7 +47,6 @@
     {"id":"brewinandchewin:coaster","required":false},
     {"id":"mynethersdelight:powdery_cannon","required":false},
 	
-    {"id":"abundant_atmosphere:gourdnut","required":false},
     {"id":"abundant_atmosphere:mud_lamp","required":false},
     {"id":"abundant_atmosphere:wall_mud_lamp","required":false},
 	
@@ -90,6 +89,7 @@
     {"id":"oxide:weathered_heavy_iron_ladder","required":false},
     {"id":"oxide:rusted_heavy_iron_ladder","required":false},
     {"id":"oxide:cinder_block","required":false},
+	
     {"id":"recharged:redstone_lantern","required":false},
     {"id":"recharged:glow_lantern","required":false},
 	

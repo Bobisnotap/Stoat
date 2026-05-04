@@ -1,0 +1,7 @@
+{
+    "selector": "#stoat:hyperbouyant",
+    "priority": 1600,
+    "properties": {
+        "sable:volume": 3.0
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    {"id":"architects_palette:entwine_bars","required":false},
+    {"id":"architects_palette:nub_of_ender","required":false},
+	
+    {"id":"enderscape:shadoline_bars","required":false},
+    {"id":"enderscape:shadoline_chain","required":false},
+    {"id":"enderscape:void_lantern","required":false}
+  ]
+}

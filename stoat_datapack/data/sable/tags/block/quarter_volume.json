@@ -3,5 +3,8 @@
   "values": [
     {"id":"#stoat:group/quarter","required":false},
     {"id":"#stoat:group/quarter_heavy","required":false}
+  ],
+  "remove": [
+    {"id":"#stoat:hyperbouyant_quarter","required":false}
   ]
 }

@@ -3,6 +3,10 @@
   "values": [
     {"id":"#stoat:group/half","required":false},
     {"id":"#stoat:group/half_bouyant","required":false},
-    {"id":"#stoat:heavy_slabs","required":false}
+    {"id":"#stoat:heavy_slabs","required":false},
+    {"id":"#stoat:super_heavy_slabs","required":false}
+  ],
+  "remove": [
+    {"id":"#stoat:hyperbouyant_half","required":false}
   ]
 }

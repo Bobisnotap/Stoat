@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:hyperbouyant_half",
+    "priority": 1600,
+    "properties": {
+        "sable:volume": 1.5
+    },
+    "overrides": {
+        "type=double": {
+			"sable:volume": 3.0
+		}
+    }
+}
