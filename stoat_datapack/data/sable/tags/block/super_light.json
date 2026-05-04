@@ -82,6 +82,10 @@
     {"id":"nomansland:tortoise_egg","required":false}
   ],
   "remove": [
+    {"id":"#stoat:heavy_slabs","required":false},
+    {"id":"#stoat:super_heavy_slabs","required":false},
+    {"id":"#stoat:glowstone_light","required":false},
+    {"id":"#stoat:glowstone_lighter","required":false},
     {"id":"supplementaries:netherite_door","required":false},
     {"id":"supplementaries:netherite_trapdoor","required":false}
   ]

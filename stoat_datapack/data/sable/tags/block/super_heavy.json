@@ -7,6 +7,12 @@
     {"id":"architects_palette:netherite_nub","required":false},
 	
     {"id":"quark:dusky_myalite","required":false},
+    {"id":"quark:raw_iron_bricks","required":false},
+    {"id":"quark:raw_iron_bricks_wall","required":false},
+    {"id":"quark:raw_gold_bricks","required":false},
+    {"id":"quark:raw_gold_bricks_wall","required":false},
+    {"id":"quark:raw_copper_bricks","required":false},
+    {"id":"quark:raw_copper_bricks_wall","required":false},
 	
     {"id":"supplementaries:safe","required":false},
 	

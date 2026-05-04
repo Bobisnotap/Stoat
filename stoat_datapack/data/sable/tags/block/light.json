@@ -21,6 +21,7 @@
     {"id":"abundant_atmosphere:rust_moss_block","required":false},
     {"id":"#abundant_atmosphere:red_bamboo_blocks","required":false},
     {"id":"abundant_atmosphere:poreshroom_block","required":false},
+    {"id":"abundant_atmosphere:red_bamboo_mosaic","required":false},
 	
     {"id":"#blockbox:palisades","required":false},
     {"id":"#blockbox:spiked_palisades","required":false},
@@ -82,6 +83,7 @@
     {"id":"mynethersdelight:powdery_block","required":false},
     {"id":"mynethersdelight:stripped_powdery_block","required":false},
     {"id":"mynethersdelight:bullet_pepper_crate","required":false},
+    {"id":"mynethersdelight:powdery_mosaic","required":false},
 	
     {"id":"#enderscape:chanterelle_cap_blocks","required":false},
 	
@@ -102,6 +104,10 @@
   ],
   "remove": [
     {"id":"#stoat:chorus_half","required":false},
+    {"id":"#stoat:heavy_slabs","required":false},
+    {"id":"#stoat:super_heavy_slabs","required":false},
+    {"id":"#stoat:glowstone_light","required":false},
+    {"id":"#stoat:glowstone_lighter","required":false},
     {"id":"architects_palette:netherite_nub","required":false}
   ]
 }

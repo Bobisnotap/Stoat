@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:super_heavy_slabs",
+    "priority": 1600,
+    "properties": {
+        "sable:mass": 2.0
+    },
+    "overrides": {
+        "type=double": {
+			"sable:mass": 4.0
+		}
+    }
+}
