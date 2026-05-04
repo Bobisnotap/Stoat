@@ -75,6 +75,7 @@
     {"id":"spawn:zombified_flower","required":false},
     {"id":"spawn:red_algae_block","required":false},
     {"id":"spawn:hazy_algae_block","required":false},
+    {"id":"spawn:red_algae_carpet","required":false},
     {"id":"spawn:iguana_egg","required":false},
     {"id":"spawn:marine_iguana_egg","required":false},
 	

@@ -1,0 +1,8 @@
+{
+    "selector": "#stoat:soft",
+    "priority": 1600,
+    "properties": {
+        "sable:floating_material": "stoat:also_simple_drag",
+        "sable:floating_scale": 0.33
+    }
+}

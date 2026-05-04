@@ -1,0 +1,12 @@
+{
+  "values": [
+    {"id":"#minecraft:wool","required":false},
+    {"id":"#minecraft:wool_carpets","required":false},
+    {"id":"minecraft:sponge","required":false},
+	
+    {"id":"#wholecloth:cloth_blocks","required":false},
+    {"id":"#wholecloth:cloth_carpets","required":false},
+	
+    {"id":"supplementaries:feather_block","required":false}
+  ]
+}
