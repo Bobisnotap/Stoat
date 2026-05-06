@@ -23,6 +23,7 @@
   "remove": [
     {"id":"#c:storage_blocks/sugar_cane","required":false},
     {"id":"#c:storage_blocks/cactus","required":false},
+    {"id":"#c:storage_blocks/chorus_fruit","required":false},
     {"id":"#c:storage_blocks/stick","required":false},
     {"id":"#c:storage_blocks/apple","required":false},
     {"id":"#c:storage_blocks/cocoa_beans","required":false},

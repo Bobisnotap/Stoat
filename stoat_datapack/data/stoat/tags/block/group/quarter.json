@@ -113,6 +113,10 @@
     {"id":"spawn:clam_case_red","required":false},
     {"id":"spawn:clam_case_purple","required":false},
 	
-    {"id":"#wholecloth:cloth_carpets","required":false}
+    {"id":"#wholecloth:cloth_carpets","required":false},
+	
+    {"id":"#kaleidoscopic:dyed_ladders","required":false},
+    {"id":"#kaleidoscopic:dyed_trapdoors","required":false},
+    {"id":"#kaleidoscopic:dyed_doors","required":false}
   ]
 }

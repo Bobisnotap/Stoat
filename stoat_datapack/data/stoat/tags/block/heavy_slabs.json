@@ -7,6 +7,9 @@
     {"id":"frame_changer:crying_obsidian_brick_slab","required":false},
     {"id":"frame_changer:crying_obsidian_brick_stairs","required":false},
     {"id":"frame_changer:crying_polished_obsidian_slab","required":false},
-    {"id":"frame_changer:crying_polished_obsidian_stairs","required":false}
+    {"id":"frame_changer:crying_polished_obsidian_stairs","required":false},
+	
+    {"id":"recharged:obsidian_stairs","required":false},
+    {"id":"recharged:obsidian_slab","required":false}
   ]
 }

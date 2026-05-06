@@ -22,6 +22,8 @@
 	
     {"id":"amendments:water_lily_pad","required":false},
 	
-    {"id":"spawn:date_bunch","required":false}
+    {"id":"spawn:date_bunch","required":false},
+	
+    {"id":"arts_and_crafts:lotus_flower","required":false}
   ]
 }

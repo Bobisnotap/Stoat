@@ -7,6 +7,7 @@
 	
     {"id":"#c:storage_blocks/sugar_cane","required":false},
     {"id":"#c:storage_blocks/cactus","required":false},
+    {"id":"#c:storage_blocks/chorus_fruit","required":false},
     {"id":"#c:storage_blocks/stick","required":false},
     {"id":"#c:storage_blocks/apple","required":false},
     {"id":"#c:storage_blocks/cocoa_beans","required":false},
@@ -67,9 +68,6 @@
     {"id":"supplementaries:fine_wood","required":false},
     {"id":"supplementaries:fodder","required":false},
 	
-    {"id":"minecraft:dried_kelp_block","required":false},
-    {"id":"minecraft:hay_bale","required":false},
-	
     {"id":"quark:bonded_ravager_hide","required":false},
     {"id":"quark:bamboo_mat","required":false},
     {"id":"quark:glow_shroom_stem","required":false},
@@ -101,7 +99,10 @@
     {"id":"verdant:phosphor_fungus_block","required":false},
     {"id":"verdant:mushgloom_block","required":false},
     {"id":"verdant:milly_bubcap_block","required":false},
-    {"id":"verdant:saguaro_block","required":false}
+    {"id":"verdant:saguaro_block","required":false},
+	
+    {"id":"arts_and_crafts:cork","required":false},
+    {"id":"arts_and_crafts:smooth_cork","required":false}
   ],
   "remove": [
     {"id":"#stoat:chorus_half","required":false},
@@ -109,6 +110,9 @@
     {"id":"#stoat:super_heavy_slabs","required":false},
     {"id":"#stoat:glowstone_light","required":false},
     {"id":"#stoat:glowstone_lighter","required":false},
+    {"id":"#stoat:group/quarter","required":false},
+    {"id":"#stoat:group/half_bouyant","required":false},
+	
     {"id":"architects_palette:netherite_nub","required":false}
   ]
 }

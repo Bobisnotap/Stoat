@@ -41,6 +41,10 @@
     {"id":"#stoat:super_heavy_slabs","required":false},
     {"id":"#stoat:glowstone_light","required":false},
     {"id":"#stoat:glowstone_lighter","required":false},
+    {"id":"#stoat:group/quarter_heavy","required":false},
+	
+    {"id":"architects_palette:netherite_nub","required":false},
+	
     {"id":"supplementaries:netherite_door","required":false},
     {"id":"supplementaries:netherite_trapdoor","required":false}
   ]

@@ -22,6 +22,8 @@
     {"id":"frame_changer:crying_obsidian_brick_wall","required":false},
     {"id":"frame_changer:crying_polished_obsidian_wall","required":false},
     {"id":"frame_changer:crying_chiseled_obsidian","required":false},
-    {"id":"frame_changer:crying_obsidian_pillar","required":false}
+    {"id":"frame_changer:crying_obsidian_pillar","required":false},
+	
+    {"id":"recharged:obsidian_wall","required":false}
   ]
 }
